@@ -56,17 +56,7 @@ Results
 --------------
 The script generates plots comparing predicted and original stock prices for the test data. Results can be visually analyzed for the accuracy of the model.
 
-Issues and Bugs
---------------
-There are no known issues at the moment. If you encounter any problems or have suggestions for improvement, please open an issue on the GitHub repository.
 
-Contributing
---------------
-Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request. Please follow coding standards and provide comprehensive explanations for your changes.
-
-License
---------------
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 Acknowledgments
 --------------
