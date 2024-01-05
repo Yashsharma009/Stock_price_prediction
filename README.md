@@ -1,7 +1,7 @@
-Certainly! Here's a README file in txt format based on the code you provided:
+Stock Price Prediction using LSTM
 
 ```plaintext
-Stock Price Prediction using LSTM
+
 ==================================
 
 Overview
